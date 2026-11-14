@@ -1,6 +1,6 @@
 # AgroConnect · servicio-pedidos
 
-Componente mínimo del **Proyecto Final de Arquitectura de Software** (Gabriel Hidalgo, Benjamín Muñoz, Cielo Vinazza).
+Componente mínimo del **Proyecto Final de Arquitectura de Software** (Gabriel Hidalgo, Benjamín Muñoz).
 Implementa el caso de uso **RF-04 Registrar pedido** de la plataforma AgroConnect y sirve para demostrar el pipeline de
 integración y entrega continuas (CI/CD) con GitHub Actions.
 
